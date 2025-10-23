@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Profiles\\sa7964\\Desktop\\discussingalgorithms\\Algorithms\\Algorithms.csproj": {}
+    "D:\\Profiles\\sa7964\\Desktop\\discussingalgorithms\\algorithms\\algorithms.csproj": {}
   },
   "projects": {
-    "D:\\Profiles\\sa7964\\Desktop\\discussingalgorithms\\Algorithms\\Algorithms.csproj": {
+    "D:\\Profiles\\sa7964\\Desktop\\discussingalgorithms\\algorithms\\algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Profiles\\sa7964\\Desktop\\discussingalgorithms\\Algorithms\\Algorithms.csproj",
-        "projectName": "Algorithms",
-        "projectPath": "D:\\Profiles\\sa7964\\Desktop\\discussingalgorithms\\Algorithms\\Algorithms.csproj",
+        "projectUniqueName": "D:\\Profiles\\sa7964\\Desktop\\discussingalgorithms\\algorithms\\algorithms.csproj",
+        "projectName": "algorithms",
+        "projectPath": "D:\\Profiles\\sa7964\\Desktop\\discussingalgorithms\\algorithms\\algorithms.csproj",
         "packagesPath": "D:\\Profiles\\sa7964\\.nuget\\packages\\",
-        "outputPath": "D:\\Profiles\\sa7964\\Desktop\\discussingalgorithms\\Algorithms\\obj\\",
+        "outputPath": "D:\\Profiles\\sa7964\\Desktop\\discussingalgorithms\\algorithms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

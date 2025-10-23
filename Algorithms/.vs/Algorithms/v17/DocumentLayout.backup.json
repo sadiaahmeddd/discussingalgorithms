@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Profiles\\sa7964\\Desktop\\discussingalgorithms\\Algorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA4DEC43-A36B-4498-9271-0679AE9A85F0}|algorithms.csproj|d:\\profiles\\sa7964\\desktop\\discussingalgorithms\\algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA4DEC43-A36B-4498-9271-0679AE9A85F0}|algorithms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EC56515-A71C-4284-82FD-36BAA301546E}|Algorithms.csproj|d:\\profiles\\sa7964\\desktop\\discussingalgorithms\\algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC56515-A71C-4284-82FD-36BAA301546E}|Algorithms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T12:55:40.763Z",
+              "WhenOpened": "2025-10-23T12:50:27.892Z",
               "EditorCaption": ""
             },
             {
